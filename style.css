@@ -1,0 +1,37 @@
+body { 
+    width: 100%; 
+    height: 100vh;
+  }
+
+
+#hero {
+    background-color: #EEEDEB;
+}
+
+#hero h1 {
+    color: #3C3633;
+}
+
+#nav-bar {
+    background-color: #E0CCBE;
+}
+
+#nav-bar a {
+    color: #3C3633;
+}
+
+#nav-bar p {
+    color: #d35f24;
+}
+
+nav {
+    background-color: #E0CCBE;
+}
+
+.footer {
+    background-color: #747264;
+    color: #3C3633;
+    height: 16vh;
+
+}
+
