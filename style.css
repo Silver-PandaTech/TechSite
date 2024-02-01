@@ -1,37 +1,41 @@
 body { 
     width: 100%; 
     height: 100vh;
-  }
-
+}
 
 #hero {
-    background-color: #EEEDEB;
+    background-color: #002B5B;
 }
 
 #hero h1 {
-    color: #3C3633;
+    color: #F9F5EB;
 }
 
+#hero p {
+    color: #F9F5EB;
+}   
+
 #nav-bar {
-    background-color: #E0CCBE;
+    background-color: #EA5455;
 }
 
 #nav-bar a {
-    color: #3C3633;
+    color: #002B5B;
 }
 
 #nav-bar p {
-    color: #d35f24;
+    color: #002B5B;
 }
 
 nav {
-    background-color: #E0CCBE;
+    background-color: #EA5455;
 }
 
 .footer {
-    background-color: #747264;
-    color: #3C3633;
+    background-color: #EA5455;
+    color: #002B5B;
     height: 16vh;
 
 }
+
 
